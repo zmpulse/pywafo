@@ -12,7 +12,7 @@ Description
 
 WAFO is a toolbox Python routines for statistical analysis and simulation of
 random waves and random loads. WAFO is freely redistributable software, see WAFO
-icence, cf. the GNU General Public License (GPL) and contain tools for:
+licence, cf. the GNU General Public License (GPL) and contain tools for:
 
 Fatigue Analysis
 ----------------
